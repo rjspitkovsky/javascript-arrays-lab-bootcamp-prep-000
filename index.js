@@ -18,7 +18,7 @@ var kittens = ["Milo", "Otis", "Garfield"]
 
 function destructivelyRemoveLastKitten(name) {
   kittens.pop()
-  return kittens 
+  return kittens
 }
 
 var kittens = ["Milo", "Otis", "Garfield"]
